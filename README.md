@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Pager-dot 👋
+# Hi, I'm Paritosh 👋
 
 **Open-source enthusiast**
 
 Working on agent tooling, RAG pipelines, and video-translation systems — and breaking my self-hosted server on the side.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paritosh-99b251272/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paritosh--99b251272-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paritosh-99b251272/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-black?style=flat-square&logo=vercel)](https://pager-dot-portfolio.static.hf.space)
 
 </div>
