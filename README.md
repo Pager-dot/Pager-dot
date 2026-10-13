@@ -7,7 +7,6 @@
 Working on agent tooling, RAG pipelines, and video-translation systems — and breaking my self-hosted server on the side.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-paritosh--99b251272-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paritosh-99b251272/)
-[![Email](https://img.shields.io/badge/Email-kparitosh760%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kparitosh760@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-black?style=flat-square&logo=vercel)](https://pager-dot-portfolio.static.hf.space)
 
 </div>
